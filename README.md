@@ -1,2 +1,2 @@
 # Pagina-Instagram
- Recriando página inicial do Intsaram
+ Recriando página inicial do Instagram
